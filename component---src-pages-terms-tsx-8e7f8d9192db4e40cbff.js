@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby=self.webpackChunkgatsby||[]).push([[168],{678:function(e,t,n){n.r(t),n.d(t,{default:function(){return a}});var u=n(6540),r=n(7284);function a(){return u.createElement(r.A,{page:"terms"})}}}]);
+//# sourceMappingURL=component---src-pages-terms-tsx-8e7f8d9192db4e40cbff.js.map

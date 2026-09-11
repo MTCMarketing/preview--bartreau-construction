@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby=self.webpackChunkgatsby||[]).push([[985],{7979:function(e,t,n){n.r(t),n.d(t,{default:function(){return r}});var u=n(6540),a=n(7284);function r(){return u.createElement(a.A,{page:"privacy"})}}}]);
+//# sourceMappingURL=component---src-pages-privacy-tsx-27a14a048be627514386.js.map
